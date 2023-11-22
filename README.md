@@ -1,5 +1,7 @@
 # Explore Spring Security JWT: An Open-Source Project for Learning
 
+[SMA.im](https://sma.im)
+
 Dive into the world of **Spring Security JWT** through this interactive and open-source Spring Boot project. Designed for those eager to grasp the intricacies of JWT (JSON Web Token) in authentication and authorization, this project is a treasure trove of knowledge. It thoroughly examines JWT usage, from token creation and validation to implementing scope-based access controls.
 
 ## What You'll Discover
